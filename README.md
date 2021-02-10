@@ -18,6 +18,8 @@ experience aligned to what they would actually expect.
 
 ## Values
 
+We value:
+
 - User privacy over time to market
 - Simplicity and transparency over exhaustive, detailed contracts
 
@@ -28,6 +30,7 @@ experience aligned to what they would actually expect.
 - We do not use third party software that leaks information about users and/or sell information about users
 - Technologists inherently play a guiding role in thinking about privacy because we are uniquely positioned to understand where and how user information is collected, sold, etc.
 - Users are smart and may elect to forego privacy considerations when they are laid out clearly
+- We do not ourselves (nor do we use 3rd parties that) engage in background processes that enrich information about users or prospects to better target them
 
 ## Signatories
 
